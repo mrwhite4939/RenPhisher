@@ -11,10 +11,10 @@ RenPhisher is an educational tool designed for security awareness and lawful pen
 📥 Requirements
 
 Before installation, make sure the basic packages are installed:
-
+```
 apt update && apt upgrade -y
 apt install git wget php unzip curl -y
-
+```
 
 ---
 
@@ -29,20 +29,10 @@ bash renphisher.sh
 ---
 
 🔄 Update the Tool
-
+```
 cd RenPhisher
 bash update.sh
-
-
----
-
-📂 Project Structure
-
-renphisher.sh — Main script
-
-pages/ — Templates for awareness/testing
-
-support files — Configuration and helper files
+```
 
 
 
