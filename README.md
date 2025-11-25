@@ -19,12 +19,12 @@ apt install git wget php unzip curl -y
 ---
 
 🔧 Installation
-
+```
 git clone https://github.com/mrwhite4939/RenPhisher
 cd RenPhisher
 chmod +x *
 bash renphisher.sh
-
+```
 
 ---
 
